@@ -1,2 +1,2 @@
-linked files together
-able to append task content to html
+Can now add single items to list
+empties input after submit
