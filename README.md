@@ -1,2 +1,1 @@
-Added files to repo
-Initialised git control
+Began again from beginning for better foundations
