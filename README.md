@@ -1,1 +1,1 @@
-New styling added
+Adjusted responsive screen sizing for mobile
