@@ -1,2 +1,3 @@
-Can now add single items to list
-empties input after submit
+Created delete button
+linked to DOM
+AJAX request done
