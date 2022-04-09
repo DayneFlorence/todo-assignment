@@ -1,1 +1,1 @@
-Basic features completed
+New styling added
